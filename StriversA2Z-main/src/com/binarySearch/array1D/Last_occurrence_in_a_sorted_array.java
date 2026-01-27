@@ -17,6 +17,10 @@ public class Last_occurrence_in_a_sorted_array {
 
         return new int[] {first,last};
     }
+
+    static int occurrence2(int[] arr , int ele){
+        return 1;
+    }
     public static void main(String[] args) {
          int[] arr = {3, 4, 13, 13, 13, 20, 40};
 
